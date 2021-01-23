@@ -1,7 +1,7 @@
 from django.db import models
 from django.utils.translation import gettext_lazy as _
 from django.contrib.auth.models import User
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 
 # Create your models here.
 
@@ -81,7 +81,7 @@ class Student(models.Model):
     def is_infected(self):
         test_date = self.test_set.filter(is_positive=True).order_by('-date')[0].date #get most recent positive test
         delta = timedelta(weeks=3)
-        now = datetime.now()
+        now = datetime.now(timezone(timedelta(hours=-5)))
         return now - test_date < delta
         
 class Employee(models.Model):
