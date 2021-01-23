@@ -79,6 +79,9 @@ class Student(models.Model):
     dorm = models.CharField(max_length=200, choices=Dorm.choices, blank=True)
 
     def is_infected(self):
+        test_date = None
+        if len(self.test_set.filter(is_positive=True).order_by('-date')[0].date) == 0: #get most recent positive test)
+            return False
         test_date = self.test_set.filter(is_positive=True).order_by('-date')[0].date #get most recent positive test
         delta = timedelta(weeks=3)
         now = datetime.now(timezone(timedelta(hours=-5)))
