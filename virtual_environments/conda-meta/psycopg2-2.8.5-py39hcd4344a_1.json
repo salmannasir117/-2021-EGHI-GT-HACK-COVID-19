@@ -1,0 +1,417 @@
+{
+  "build": "py39hcd4344a_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "libpq >=12.2,<13.0a0",
+    "python >=3.9,<3.10.0a0",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\salma\\anaconda3\\pkgs\\psycopg2-2.8.5-py39hcd4344a_1",
+  "features": "",
+  "files": [
+    "Lib/site-packages/psycopg2-2.8.5.dist-info/INSTALLER",
+    "Lib/site-packages/psycopg2-2.8.5.dist-info/LICENSE",
+    "Lib/site-packages/psycopg2-2.8.5.dist-info/METADATA",
+    "Lib/site-packages/psycopg2-2.8.5.dist-info/RECORD",
+    "Lib/site-packages/psycopg2-2.8.5.dist-info/REQUESTED",
+    "Lib/site-packages/psycopg2-2.8.5.dist-info/WHEEL",
+    "Lib/site-packages/psycopg2-2.8.5.dist-info/direct_url.json",
+    "Lib/site-packages/psycopg2-2.8.5.dist-info/top_level.txt",
+    "Lib/site-packages/psycopg2/__init__.py",
+    "Lib/site-packages/psycopg2/__pycache__/__init__.cpython-39.pyc",
+    "Lib/site-packages/psycopg2/__pycache__/_ipaddress.cpython-39.pyc",
+    "Lib/site-packages/psycopg2/__pycache__/_json.cpython-39.pyc",
+    "Lib/site-packages/psycopg2/__pycache__/_lru_cache.cpython-39.pyc",
+    "Lib/site-packages/psycopg2/__pycache__/_range.cpython-39.pyc",
+    "Lib/site-packages/psycopg2/__pycache__/compat.cpython-39.pyc",
+    "Lib/site-packages/psycopg2/__pycache__/errorcodes.cpython-39.pyc",
+    "Lib/site-packages/psycopg2/__pycache__/errors.cpython-39.pyc",
+    "Lib/site-packages/psycopg2/__pycache__/extensions.cpython-39.pyc",
+    "Lib/site-packages/psycopg2/__pycache__/extras.cpython-39.pyc",
+    "Lib/site-packages/psycopg2/__pycache__/pool.cpython-39.pyc",
+    "Lib/site-packages/psycopg2/__pycache__/sql.cpython-39.pyc",
+    "Lib/site-packages/psycopg2/__pycache__/tz.cpython-39.pyc",
+    "Lib/site-packages/psycopg2/_ipaddress.py",
+    "Lib/site-packages/psycopg2/_json.py",
+    "Lib/site-packages/psycopg2/_lru_cache.py",
+    "Lib/site-packages/psycopg2/_psycopg.cp39-win_amd64.pyd",
+    "Lib/site-packages/psycopg2/_range.py",
+    "Lib/site-packages/psycopg2/compat.py",
+    "Lib/site-packages/psycopg2/errorcodes.py",
+    "Lib/site-packages/psycopg2/errors.py",
+    "Lib/site-packages/psycopg2/extensions.py",
+    "Lib/site-packages/psycopg2/extras.py",
+    "Lib/site-packages/psycopg2/pool.py",
+    "Lib/site-packages/psycopg2/sql.py",
+    "Lib/site-packages/psycopg2/tz.py",
+    "Lib/site-packages/wheel/__pycache__/__init__.cpython-39.pyc",
+    "Lib/site-packages/wheel/__pycache__/bdist_wheel.cpython-39.pyc",
+    "Lib/site-packages/wheel/__pycache__/macosx_libfile.cpython-39.pyc",
+    "Lib/site-packages/wheel/__pycache__/metadata.cpython-39.pyc",
+    "Lib/site-packages/wheel/__pycache__/pkginfo.cpython-39.pyc",
+    "Lib/site-packages/wheel/__pycache__/util.cpython-39.pyc",
+    "Lib/site-packages/wheel/__pycache__/wheelfile.cpython-39.pyc",
+    "Lib/site-packages/wheel/cli/__pycache__/__init__.cpython-39.pyc",
+    "Lib/site-packages/wheel/vendored/__pycache__/__init__.cpython-39.pyc",
+    "Lib/site-packages/wheel/vendored/packaging/__pycache__/__init__.cpython-39.pyc",
+    "Lib/site-packages/wheel/vendored/packaging/__pycache__/_typing.cpython-39.pyc",
+    "Lib/site-packages/wheel/vendored/packaging/__pycache__/tags.cpython-39.pyc",
+    ".nonadmin"
+  ],
+  "fn": "psycopg2-2.8.5-py39hcd4344a_1.conda",
+  "legacy_bz2_md5": "4e8f434f4dc84ff279b00b31c027dc93",
+  "license": "LGPL, BSD-like, ZPL",
+  "license_family": "LGPL",
+  "link": {
+    "source": "C:\\Users\\salma\\anaconda3\\pkgs\\psycopg2-2.8.5-py39hcd4344a_1",
+    "type": 1
+  },
+  "md5": "c9031312600b58e971041371018c8ede",
+  "name": "psycopg2",
+  "package_tarball_full_path": "C:\\Users\\salma\\anaconda3\\pkgs\\psycopg2-2.8.5-py39hcd4344a_1.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/psycopg2-2.8.5.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "Lib/site-packages/psycopg2-2.8.5.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "9614b85dfc9a72c5b2ca33144c1d7e1ed3b1c297459d9fb28a6a5762c2e8d71b",
+        "sha256_in_prefix": "9614b85dfc9a72c5b2ca33144c1d7e1ed3b1c297459d9fb28a6a5762c2e8d71b",
+        "size_in_bytes": 2238
+      },
+      {
+        "_path": "Lib/site-packages/psycopg2-2.8.5.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "fff23a3b24e518730a25655ed1c81919ad9437b89681e685707611fe3c6d627f",
+        "sha256_in_prefix": "fff23a3b24e518730a25655ed1c81919ad9437b89681e685707611fe3c6d627f",
+        "size_in_bytes": 4448
+      },
+      {
+        "_path": "Lib/site-packages/psycopg2-2.8.5.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "15e7f2ad41320f1573d73253ed334750d24a7b8b55ff9ca028aa8756d5f1ef3b",
+        "sha256_in_prefix": "15e7f2ad41320f1573d73253ed334750d24a7b8b55ff9ca028aa8756d5f1ef3b",
+        "size_in_bytes": 2371
+      },
+      {
+        "_path": "Lib/site-packages/psycopg2-2.8.5.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/psycopg2-2.8.5.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "8ebeee6d8d0b933ff25c7f457c57bd3d3b4b8463ac7fad9d66436f4d8ac920d1",
+        "sha256_in_prefix": "8ebeee6d8d0b933ff25c7f457c57bd3d3b4b8463ac7fad9d66436f4d8ac920d1",
+        "size_in_bytes": 100
+      },
+      {
+        "_path": "Lib/site-packages/psycopg2-2.8.5.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "ab645b80f6a5a2903b7dc4d36899a4252e4fab6170e35d4e09b03acacd3bdd1b",
+        "sha256_in_prefix": "ab645b80f6a5a2903b7dc4d36899a4252e4fab6170e35d4e09b03acacd3bdd1b",
+        "size_in_bytes": 68
+      },
+      {
+        "_path": "Lib/site-packages/psycopg2-2.8.5.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "edd1c6a4ba90df0faf1a6184567fbbb8af74a94f5fcab19d5968bb4be8137273",
+        "sha256_in_prefix": "edd1c6a4ba90df0faf1a6184567fbbb8af74a94f5fcab19d5968bb4be8137273",
+        "size_in_bytes": 9
+      },
+      {
+        "_path": "Lib/site-packages/psycopg2/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "7f54484ffa3b4fb2d4f4e627d5101b6c6bce645bf54b4cb7db9d21ea7b8aa124",
+        "sha256_in_prefix": "7f54484ffa3b4fb2d4f4e627d5101b6c6bce645bf54b4cb7db9d21ea7b8aa124",
+        "size_in_bytes": 4916
+      },
+      {
+        "_path": "Lib/site-packages/psycopg2/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "1692a00a07987455e82412a40cd9fc4441764110e53979b8ed5ee9c0fb4e14bb",
+        "sha256_in_prefix": "1692a00a07987455e82412a40cd9fc4441764110e53979b8ed5ee9c0fb4e14bb",
+        "size_in_bytes": 3353
+      },
+      {
+        "_path": "Lib/site-packages/psycopg2/__pycache__/_ipaddress.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "76901e9a70bb01344374f20497b5f830cb3fa2d4982eaf079ad7d5c19e893a87",
+        "sha256_in_prefix": "76901e9a70bb01344374f20497b5f830cb3fa2d4982eaf079ad7d5c19e893a87",
+        "size_in_bytes": 2022
+      },
+      {
+        "_path": "Lib/site-packages/psycopg2/__pycache__/_json.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "e2a51ada927de0a3fa1a7a41a298fe516f6a1c3c03a85e59fa089b29a7bbc731",
+        "sha256_in_prefix": "e2a51ada927de0a3fa1a7a41a298fe516f6a1c3c03a85e59fa089b29a7bbc731",
+        "size_in_bytes": 6306
+      },
+      {
+        "_path": "Lib/site-packages/psycopg2/__pycache__/_lru_cache.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "53f7be2d3c56ab134407aeb45ce0e284f297d8c614d3249e536ec5363f18698e",
+        "sha256_in_prefix": "53f7be2d3c56ab134407aeb45ce0e284f297d8c614d3249e536ec5363f18698e",
+        "size_in_bytes": 2766
+      },
+      {
+        "_path": "Lib/site-packages/psycopg2/__pycache__/_range.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "46a3abe3f7040c51275f6d89d5e91bf12b194d726277e8189183dde913788d53",
+        "sha256_in_prefix": "46a3abe3f7040c51275f6d89d5e91bf12b194d726277e8189183dde913788d53",
+        "size_in_bytes": 14347
+      },
+      {
+        "_path": "Lib/site-packages/psycopg2/__pycache__/compat.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "f6dd6408bada33ce12e51cb3ab702d916349da5802733015197a70f1b582a948",
+        "sha256_in_prefix": "f6dd6408bada33ce12e51cb3ab702d916349da5802733015197a70f1b582a948",
+        "size_in_bytes": 404
+      },
+      {
+        "_path": "Lib/site-packages/psycopg2/__pycache__/errorcodes.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "34ed2cd5a010a6e0e7c1071ab7665735e1376837423fd9ecdc74d811e6bd8470",
+        "sha256_in_prefix": "34ed2cd5a010a6e0e7c1071ab7665735e1376837423fd9ecdc74d811e6bd8470",
+        "size_in_bytes": 12471
+      },
+      {
+        "_path": "Lib/site-packages/psycopg2/__pycache__/errors.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "124afa621d6c49740ce3f0741e83b02ab0f9d44e335f3e6bb932d8888d181f8c",
+        "sha256_in_prefix": "124afa621d6c49740ce3f0741e83b02ab0f9d44e335f3e6bb932d8888d181f8c",
+        "size_in_bytes": 459
+      },
+      {
+        "_path": "Lib/site-packages/psycopg2/__pycache__/extensions.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "dab1b15209041ee0a0d4ad72331204bc0d95c7083f7723c8b953ae4731518faa",
+        "sha256_in_prefix": "dab1b15209041ee0a0d4ad72331204bc0d95c7083f7723c8b953ae4731518faa",
+        "size_in_bytes": 6531
+      },
+      {
+        "_path": "Lib/site-packages/psycopg2/__pycache__/extras.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "ac95bd0ca872a05c20dd485a9ebccb2cfe92c70b816fb7feec956a3f511a1d4d",
+        "sha256_in_prefix": "ac95bd0ca872a05c20dd485a9ebccb2cfe92c70b816fb7feec956a3f511a1d4d",
+        "size_in_bytes": 43041
+      },
+      {
+        "_path": "Lib/site-packages/psycopg2/__pycache__/pool.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "5902a63a37f61b664cb131e70c705506b2f4695022325a83a721c79a1082e375",
+        "sha256_in_prefix": "5902a63a37f61b664cb131e70c705506b2f4695022325a83a721c79a1082e375",
+        "size_in_bytes": 4859
+      },
+      {
+        "_path": "Lib/site-packages/psycopg2/__pycache__/sql.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "e04c72af18833045710e88350bcc3622ee0b01f7f5dc6ce4066fa61a94ee9ea0",
+        "sha256_in_prefix": "e04c72af18833045710e88350bcc3622ee0b01f7f5dc6ce4066fa61a94ee9ea0",
+        "size_in_bytes": 15081
+      },
+      {
+        "_path": "Lib/site-packages/psycopg2/__pycache__/tz.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "67377076bf1e798a348bdb1899689efeaadc062c199efea97ba81c66ce8d8808",
+        "sha256_in_prefix": "67377076bf1e798a348bdb1899689efeaadc062c199efea97ba81c66ce8d8808",
+        "size_in_bytes": 4028
+      },
+      {
+        "_path": "Lib/site-packages/psycopg2/_ipaddress.py",
+        "path_type": "hardlink",
+        "sha256": "5536f45d76071e1c1d0201701adf26190bcfcdc5426a1d975523589695b90332",
+        "sha256_in_prefix": "5536f45d76071e1c1d0201701adf26190bcfcdc5426a1d975523589695b90332",
+        "size_in_bytes": 2967
+      },
+      {
+        "_path": "Lib/site-packages/psycopg2/_json.py",
+        "path_type": "hardlink",
+        "sha256": "211529a77cc876b870edcbf93dda171ec8c418705e5bdfaf02b2a9c58f51ec85",
+        "sha256_in_prefix": "211529a77cc876b870edcbf93dda171ec8c418705e5bdfaf02b2a9c58f51ec85",
+        "size_in_bytes": 7296
+      },
+      {
+        "_path": "Lib/site-packages/psycopg2/_lru_cache.py",
+        "path_type": "hardlink",
+        "sha256": "0e10d3303f5a42c31c2d81f283c6c0ba7961eb64ca96367a6cb02559de6d4eb7",
+        "sha256_in_prefix": "0e10d3303f5a42c31c2d81f283c6c0ba7961eb64ca96367a6cb02559de6d4eb7",
+        "size_in_bytes": 4261
+      },
+      {
+        "_path": "Lib/site-packages/psycopg2/_psycopg.cp39-win_amd64.pyd",
+        "path_type": "hardlink",
+        "sha256": "52c12ec6b801d584ea8fa548f93387f2a61d006d2d0c5286b66f05356c881b51",
+        "sha256_in_prefix": "52c12ec6b801d584ea8fa548f93387f2a61d006d2d0c5286b66f05356c881b51",
+        "size_in_bytes": 256512
+      },
+      {
+        "_path": "Lib/site-packages/psycopg2/_range.py",
+        "path_type": "hardlink",
+        "sha256": "5ecba23d9fba99ff56f2fc6506ca7bceac0a3903c269cfef2d5bc4c8f86d840e",
+        "sha256_in_prefix": "5ecba23d9fba99ff56f2fc6506ca7bceac0a3903c269cfef2d5bc4c8f86d840e",
+        "size_in_bytes": 17705
+      },
+      {
+        "_path": "Lib/site-packages/psycopg2/compat.py",
+        "path_type": "hardlink",
+        "sha256": "600a3334716b13efa7ae3bd5fa0e241cf2db72684e29519537ce33a39f153aa0",
+        "sha256_in_prefix": "600a3334716b13efa7ae3bd5fa0e241cf2db72684e29519537ce33a39f153aa0",
+        "size_in_bytes": 367
+      },
+      {
+        "_path": "Lib/site-packages/psycopg2/errorcodes.py",
+        "path_type": "hardlink",
+        "sha256": "7e17c22b6cba3260d98ef12ea75a0027ed348ade9761e092897f3d1e15cbed7f",
+        "sha256_in_prefix": "7e17c22b6cba3260d98ef12ea75a0027ed348ade9761e092897f3d1e15cbed7f",
+        "size_in_bytes": 14120
+      },
+      {
+        "_path": "Lib/site-packages/psycopg2/errors.py",
+        "path_type": "hardlink",
+        "sha256": "89a6897b22f6a54f6832df4cb0b68d94e3d98a94740572f490e280055d93bbf8",
+        "sha256_in_prefix": "89a6897b22f6a54f6832df4cb0b68d94e3d98a94740572f490e280055d93bbf8",
+        "size_in_bytes": 1420
+      },
+      {
+        "_path": "Lib/site-packages/psycopg2/extensions.py",
+        "path_type": "hardlink",
+        "sha256": "4fdf4bbf6a00602fe98d2b980cd563db15665b3f603bf4b82a69d411b65c087b",
+        "sha256_in_prefix": "4fdf4bbf6a00602fe98d2b980cd563db15665b3f603bf4b82a69d411b65c087b",
+        "size_in_bytes": 7122
+      },
+      {
+        "_path": "Lib/site-packages/psycopg2/extras.py",
+        "path_type": "hardlink",
+        "sha256": "436063503086594316f317e84f758a34fdcfe5d29ea9b7b204682905219f9760",
+        "sha256_in_prefix": "436063503086594316f317e84f758a34fdcfe5d29ea9b7b204682905219f9760",
+        "size_in_bytes": 44112
+      },
+      {
+        "_path": "Lib/site-packages/psycopg2/pool.py",
+        "path_type": "hardlink",
+        "sha256": "35dba5519ae417687e36ffe1397e515d4cfa59e88bd160a76c893122000c8cf3",
+        "sha256_in_prefix": "35dba5519ae417687e36ffe1397e515d4cfa59e88bd160a76c893122000c8cf3",
+        "size_in_bytes": 6319
+      },
+      {
+        "_path": "Lib/site-packages/psycopg2/sql.py",
+        "path_type": "hardlink",
+        "sha256": "44bd4019ba53e71cf3551358c697866e0314a23a64caacf04d92b53cd654c166",
+        "sha256_in_prefix": "44bd4019ba53e71cf3551358c697866e0314a23a64caacf04d92b53cd654c166",
+        "size_in_bytes": 14903
+      },
+      {
+        "_path": "Lib/site-packages/psycopg2/tz.py",
+        "path_type": "hardlink",
+        "sha256": "fc36a16cce4926d922173572ca13565f645b8c3513012778c435951900063fe7",
+        "sha256_in_prefix": "fc36a16cce4926d922173572ca13565f645b8c3513012778c435951900063fe7",
+        "size_in_bytes": 4446
+      },
+      {
+        "_path": "Lib/site-packages/wheel/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "cc9e0a6bb770f277c933de78b89126777a42effb27d76bbb30394dcfd4f7d07b",
+        "sha256_in_prefix": "cc9e0a6bb770f277c933de78b89126777a42effb27d76bbb30394dcfd4f7d07b",
+        "size_in_bytes": 184
+      },
+      {
+        "_path": "Lib/site-packages/wheel/__pycache__/bdist_wheel.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "a3486db2a1055c4f32264d8de5a65f7ced91daf05a360b157ac96fcd9aaae61c",
+        "sha256_in_prefix": "a3486db2a1055c4f32264d8de5a65f7ced91daf05a360b157ac96fcd9aaae61c",
+        "size_in_bytes": 13129
+      },
+      {
+        "_path": "Lib/site-packages/wheel/__pycache__/macosx_libfile.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "ddbfebfebf2047fea855beabb1c393e51698398f763c45e7c78b8c44cc19758c",
+        "sha256_in_prefix": "ddbfebfebf2047fea855beabb1c393e51698398f763c45e7c78b8c44cc19758c",
+        "size_in_bytes": 9963
+      },
+      {
+        "_path": "Lib/site-packages/wheel/__pycache__/metadata.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "1380a25649ee07e66ec11362019a854cf86856e3659dcf3a86d13d7b5443f2d8",
+        "sha256_in_prefix": "1380a25649ee07e66ec11362019a854cf86856e3659dcf3a86d13d7b5443f2d8",
+        "size_in_bytes": 3618
+      },
+      {
+        "_path": "Lib/site-packages/wheel/__pycache__/pkginfo.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "5baf27718dbba01962eb06ca006d9985b8bf5cb75cb283d9b9a9e54e7e24d41c",
+        "sha256_in_prefix": "5baf27718dbba01962eb06ca006d9985b8bf5cb75cb283d9b9a9e54e7e24d41c",
+        "size_in_bytes": 1623
+      },
+      {
+        "_path": "Lib/site-packages/wheel/__pycache__/util.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "aae6cc3fb9a409a5d1f3a1e4430a940313235aebe2e73d8cbcf1950fa82c2a07",
+        "sha256_in_prefix": "aae6cc3fb9a409a5d1f3a1e4430a940313235aebe2e73d8cbcf1950fa82c2a07",
+        "size_in_bytes": 1298
+      },
+      {
+        "_path": "Lib/site-packages/wheel/__pycache__/wheelfile.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "b5455ddbcbe236af22feec81fe756d69350b7d3cebc3ca5a2f22edad94f3ddcf",
+        "sha256_in_prefix": "b5455ddbcbe236af22feec81fe756d69350b7d3cebc3ca5a2f22edad94f3ddcf",
+        "size_in_bytes": 5570
+      },
+      {
+        "_path": "Lib/site-packages/wheel/cli/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "852c08b782be13670943e7d6e72c6c6dd7b05ff7b032bd8139f6269601e66d8b",
+        "sha256_in_prefix": "852c08b782be13670943e7d6e72c6c6dd7b05ff7b032bd8139f6269601e66d8b",
+        "size_in_bytes": 3068
+      },
+      {
+        "_path": "Lib/site-packages/wheel/vendored/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "b71a13b93d61f6d27946d0aa3a6a4b7229af9b07a63d9695f4410b11d6731daf",
+        "sha256_in_prefix": "b71a13b93d61f6d27946d0aa3a6a4b7229af9b07a63d9695f4410b11d6731daf",
+        "size_in_bytes": 171
+      },
+      {
+        "_path": "Lib/site-packages/wheel/vendored/packaging/__pycache__/__init__.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "5119ae68078787b88635a72e60016054689725b8b2d18507bca34b4e811fa567",
+        "sha256_in_prefix": "5119ae68078787b88635a72e60016054689725b8b2d18507bca34b4e811fa567",
+        "size_in_bytes": 181
+      },
+      {
+        "_path": "Lib/site-packages/wheel/vendored/packaging/__pycache__/_typing.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "f606e97c99ba2fd9d193029539a7c067951a20849ecd0481eb21dd3a791375f3",
+        "sha256_in_prefix": "f606e97c99ba2fd9d193029539a7c067951a20849ecd0481eb21dd3a791375f3",
+        "size_in_bytes": 1476
+      },
+      {
+        "_path": "Lib/site-packages/wheel/vendored/packaging/__pycache__/tags.cpython-39.pyc",
+        "path_type": "hardlink",
+        "sha256": "8e611629fa30cb00acba4f163acfc661fb244201e1c93fdfe1208c267f7c1693",
+        "sha256_in_prefix": "8e611629fa30cb00acba4f163acfc661fb244201e1c93fdfe1208c267f7c1693",
+        "size_in_bytes": 18448
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "8e441b069846a7d2b4f522d197e9d29c78650ce949a75353d16e5514a08103e8",
+  "size": 191700,
+  "subdir": "win-64",
+  "timestamp": 1608147739478,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/psycopg2-2.8.5-py39hcd4344a_1.conda",
+  "version": "2.8.5"
+}
